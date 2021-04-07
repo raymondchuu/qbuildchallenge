@@ -1,0 +1,25 @@
+C:\Users\raymo\source\repos\qbuild coding challenge\qbuild coding challenge\bin\Debug\net5.0-windows\qbuild coding challenge.exe
+C:\Users\raymo\source\repos\qbuild coding challenge\qbuild coding challenge\bin\Debug\net5.0-windows\qbuild coding challenge.deps.json
+C:\Users\raymo\source\repos\qbuild coding challenge\qbuild coding challenge\bin\Debug\net5.0-windows\qbuild coding challenge.runtimeconfig.json
+C:\Users\raymo\source\repos\qbuild coding challenge\qbuild coding challenge\bin\Debug\net5.0-windows\qbuild coding challenge.runtimeconfig.dev.json
+C:\Users\raymo\source\repos\qbuild coding challenge\qbuild coding challenge\bin\Debug\net5.0-windows\qbuild coding challenge.dll
+C:\Users\raymo\source\repos\qbuild coding challenge\qbuild coding challenge\bin\Debug\net5.0-windows\ref\qbuild coding challenge.dll
+C:\Users\raymo\source\repos\qbuild coding challenge\qbuild coding challenge\bin\Debug\net5.0-windows\qbuild coding challenge.pdb
+C:\Users\raymo\source\repos\qbuild coding challenge\qbuild coding challenge\obj\Debug\net5.0-windows\qbuild coding challenge.csprojAssemblyReference.cache
+C:\Users\raymo\source\repos\qbuild coding challenge\qbuild coding challenge\obj\Debug\net5.0-windows\qbuild_coding_challenge.Form1.resources
+C:\Users\raymo\source\repos\qbuild coding challenge\qbuild coding challenge\obj\Debug\net5.0-windows\qbuild coding challenge.csproj.GenerateResource.cache
+C:\Users\raymo\source\repos\qbuild coding challenge\qbuild coding challenge\obj\Debug\net5.0-windows\qbuild coding challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raymo\source\repos\qbuild coding challenge\qbuild coding challenge\obj\Debug\net5.0-windows\qbuild coding challenge.AssemblyInfoInputs.cache
+C:\Users\raymo\source\repos\qbuild coding challenge\qbuild coding challenge\obj\Debug\net5.0-windows\qbuild coding challenge.AssemblyInfo.cs
+C:\Users\raymo\source\repos\qbuild coding challenge\qbuild coding challenge\obj\Debug\net5.0-windows\qbuild coding challenge.csproj.CoreCompileInputs.cache
+C:\Users\raymo\source\repos\qbuild coding challenge\qbuild coding challenge\obj\Debug\net5.0-windows\qbuild coding challenge.dll
+C:\Users\raymo\source\repos\qbuild coding challenge\qbuild coding challenge\obj\Debug\net5.0-windows\ref\qbuild coding challenge.dll
+C:\Users\raymo\source\repos\qbuild coding challenge\qbuild coding challenge\obj\Debug\net5.0-windows\qbuild coding challenge.pdb
+C:\Users\raymo\source\repos\qbuild coding challenge\qbuild coding challenge\obj\Debug\net5.0-windows\qbuild coding challenge.genruntimeconfig.cache
+C:\Users\raymo\source\repos\qbuild coding challenge\qbuild coding challenge\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\raymo\source\repos\qbuild coding challenge\qbuild coding challenge\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\raymo\source\repos\qbuild coding challenge\qbuild coding challenge\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\raymo\source\repos\qbuild coding challenge\qbuild coding challenge\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\raymo\source\repos\qbuild coding challenge\qbuild coding challenge\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\raymo\source\repos\qbuild coding challenge\qbuild coding challenge\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\raymo\source\repos\qbuild coding challenge\qbuild coding challenge\obj\Debug\net5.0-windows\qbuild coding challenge.csproj.CopyComplete
